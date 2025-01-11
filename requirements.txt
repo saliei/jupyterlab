@@ -29,3 +29,6 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=5,<6
 bqplot
+
+# Archiving utility (optional)
+libarchive-c>=5
